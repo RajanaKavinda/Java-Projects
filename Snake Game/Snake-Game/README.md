@@ -3,6 +3,18 @@
 ## Introduction
 This project is a modern implementation of the classic Snake game, designed using Java and the Swing framework. The game features a simple graphical interface where a snake navigates a grid to consume food, growing longer with each piece of food it eats. The objective is to grow the snake as long as possible without colliding with the walls or itself. This project is ideal for beginners learning Java or for anyone interested in understanding event-driven programming and basic game development concepts.
 
+## Game Screenshots
+
+### Gameplay Screen
+<img src="images/gameplay.png" alt="Gameplay" width="600">
+
+### Color Customization
+<img src="images/color_customization.png" alt="Color Customization" width="600">
+
+### Game Over Screen
+<img src="images/game_over.png" alt="Game Over" width="600">
+
+
 ## Features
 - **Adjustable Speed**: Players can adjust the speed of the snake using a slider. The speed ranges from slow to fast, providing a customizable game experience.
 - **Color Customization**: The color of the snake can be changed dynamically during the game by pressing the 'C' key, adding a visual customization aspect to the gameplay.
