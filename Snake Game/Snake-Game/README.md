@@ -6,14 +6,19 @@ This project is a modern implementation of the classic Snake game, designed usin
 ## Game Screenshots
 
 ### Gameplay Screen
-<img src="images/gameplay.png" alt="Gameplay" width="600">
+<div style="text-align: center;">
+  <img src="images/img1.png" alt="Gameplay" width="600">
+</div>
 
 ### Color Customization
-<img src="images/color_customization.png" alt="Color Customization" width="600">
+<div style="text-align: center;">
+  <img src="images/img3.png" alt="Color Customization" width="600">
+</div>
 
 ### Game Over Screen
-<img src="images/game_over.png" alt="Game Over" width="600">
-
+<div style="text-align: center;">
+  <img src="images/img2.png" alt="Game Over" width="600">
+</div>
 
 ## Features
 - **Adjustable Speed**: Players can adjust the speed of the snake using a slider. The speed ranges from slow to fast, providing a customizable game experience.
